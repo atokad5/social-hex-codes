@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "xd-storage-helper": "^1.2.0"
+  }
+}
